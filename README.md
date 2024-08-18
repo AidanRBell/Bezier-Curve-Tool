@@ -7,14 +7,14 @@ This was created for my Intro Computer Graphics course using C++ and GLFW. The p
 
 Please view "Demonstration_Video.mp4" to view a demonstration of the program. I recommend this as it is much easier than setting up the software to run the actual program.
 
-## Running the program
+## Running the Program
 If you are looking to run it, there is a fair bit that needs to be installed in order to run it; including OpenGL, GLFW, and a Linux platform (or something like Ubuntu to simulate it). You can type in:
 You can type in:
 	g++ bezierCurve.cpp -o bez -lOpenGL -lglfw
 	./bez 800 800
 		The parameters can be replaced with what you wish to be the width and height of the window
 
-## Using the program
+## Using the Program
 - Can place new points down where you aren't clicking right on a new node
 - When new points are placed down, the point closest to the old point will align with the other old point's closest control point
 - Can move around points, and the control points associated with them will move with them with the same offset
