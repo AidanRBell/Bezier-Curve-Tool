@@ -1,10 +1,14 @@
 # Bezier Curve Tool
 
 ## Description
-This was created for my Intro Computer Graphics course using C++ and GLFW. The program allows the user to create continuous bezier curves. Due to it being for a school assignment, it is not the most refined. but works well to just show off the mathematics. A video of the application being demonstrated can be found under "Bezier Curve Tool Demonstration.mp4". The source code is included, just being the one file "bezierCurve.cpp", but do note there are many libraries needed to run it, and needs to be ran on a UNIX-based operating system or an emulator like Ubuntu.
+This was created for my Intro Computer Graphics course using C++ and GLFW. The program allows the user to create continuous bezier curves. Due to it being for a school assignment, it is not the most refined. but works well to just show off the mathematics.
+
+## Demonstration Video
+
+Please view "Demonstration_Video.mp4" to view a demonstration of the program. I recommend this as it is much easier than setting up the software to run the actual program.
 
 ## Running the program
-If you are looking to run it, there is a fair bit needed to run it, including OpenGL, GLEW, and a linux platform (or something like ubuntu to simulate it).
+If you are looking to run it, there is a fair bit that needs to be installed in order to run it; including OpenGL, GLFW, and a Linux platform (or something like Ubuntu to simulate it). You can type in:
 You can type in:
 	g++ bezierCurve.cpp -o bez -lOpenGL -lglfw
 	./bez 800 800
