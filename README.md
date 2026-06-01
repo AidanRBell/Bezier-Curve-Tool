@@ -1,7 +1,7 @@
-# Bezier Curve Tool
+# Bezier Curve Manipulation Tool
 
 ## Description
-This was created for my Intro Computer Graphics course using C++ and GLFW. The program allows the user to create continuous bezier curves. Due to it being for a school assignment, it is not the most refined. but works well to just show off the mathematics.
+This was created for my Intro Computer Graphics course in C++ and GLFW. The program allows the user to create continuous bezier curves. Due to it being for a school assignment, it is not the most refined. but works well to just show off the mathematics.
 
 ## Demonstration Video
 
