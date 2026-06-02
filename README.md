@@ -5,10 +5,11 @@ https://github.com/user-attachments/assets/365cf60c-2043-41d4-b32d-57d344db8f65
 
 ## Running the Program
 To run the program, a few libraries need to be installed:\
-	1. A C++ compiler (g++ in this case)\
-	2. OpenGL\
-	3. FreeGLUT\
-	4. GLFW\
+&emsp;1. A C++ compiler (g++ in this case)\
+&emsp;2. OpenGL\
+&emsp;3. FreeGLUT\
+&emsp;4. GLFW\
+	\
 With these installed, in the terminal, simply run:
 - `g++ bezierCurve.cpp -o bez -lglfw3 -lfreeglut -lopengl32`
 	- Compiles the code
