@@ -4,8 +4,7 @@
 This was created for my Intro Computer Graphics course in C++ and GLFW. The program allows the user to create continuous bezier curves. Due to it being for a school assignment, it is not the most refined. but works well to just show off the mathematics.
 
 ## Demonstration Video
-
-Please view "Demonstration_Video.mp4" to view a demonstration of the program. I recommend this as it is much easier than setting up the software to run the actual program.
+https://github.com/user-attachments/assets/365cf60c-2043-41d4-b32d-57d344db8f65
 
 ## Running the Program
 If you are looking to run it, there is a fair bit that needs to be installed in order to run it; including OpenGL, GLFW, and a Linux platform (or something like Ubuntu to simulate it). You can type in:
