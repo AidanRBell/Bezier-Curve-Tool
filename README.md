@@ -10,16 +10,24 @@ To run the program, a few libraries need to be installed:\
 &emsp;3. FreeGLUT\
 &emsp;4. GLFW\
 	\
-With these installed, in the terminal, simply run:
+With these installed, enter in the terminal:
 - `g++ bezierCurve.cpp -o bez -lglfw3 -lfreeglut -lopengl32`
-	- Compiles the code
+	- *Compiles the code*
  	- If you're still getting errors, try swapping:
   		- `-lglfw3` -> `-lglfw`
   		- `-lopengl32` -> `-lOpenGL`
 - `./bez 1000 1000`
-	- Run the program
-	- 1000x1000 being the adjustable width and height of the window
+	- *Run the program*
+	- the parameters can be replaced to adjust the width and height of the window (1000x1000 in this case)
+\
 
+## Using the Program
+- Click anywhere on the screen (where there isn't a node directly there) to place a new anchor point.
+- Clicking and holding on a point will let you adjust it's position.
+- Tangent points will be created from newly placed anchor points, which can also be moved around.
+
+
+\ ( ^-^ ) /
 
 
 ## Description
