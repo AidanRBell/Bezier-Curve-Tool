@@ -24,8 +24,8 @@ With these installed, enter in the terminal:
 ## Using the Program
 - Click anywhere on the screen (where there isn't a node directly there) to place a new anchor point.
 - Clicking and holding on a point will let you adjust it's position.
-- Points corresponding to tangent lines between two anchor points 
 - Tangent points will be created from newly placed anchor points, which can also be moved around.
+- Pressing E will reset the entire board.
 
 
 \ ( ^-^ ) /
