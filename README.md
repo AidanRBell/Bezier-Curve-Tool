@@ -1,6 +1,7 @@
 # Bezier Curve Manipulation Tool
 _description_
 
+
 https://github.com/user-attachments/assets/365cf60c-2043-41d4-b32d-57d344db8f65
 
 ## Running the Program
@@ -9,7 +10,7 @@ To run the program, a few libraries need to be installed:\
 &emsp;2. OpenGL\
 &emsp;3. FreeGLUT\
 &emsp;4. GLFW\
-	\
+\
 With these installed, enter in the terminal:
 - `g++ bezierCurve.cpp -o bez -lglfw3 -lfreeglut -lopengl32`
 	- *Compiles the code*
@@ -20,10 +21,10 @@ With these installed, enter in the terminal:
 	- *Run the program*
 	- the parameters can be replaced to adjust the width and height of the window (1000x1000 in this case)
 \
-
 ## Using the Program
 - Click anywhere on the screen (where there isn't a node directly there) to place a new anchor point.
 - Clicking and holding on a point will let you adjust it's position.
+- Points corresponding to tangent lines between two anchor points 
 - Tangent points will be created from newly placed anchor points, which can also be moved around.
 
 
