@@ -20,10 +20,10 @@ To run the program, a few libraries need to be installed:\
 \
 With these installed, enter in the terminal:
 - *Optional*: `g++ bezierCurve.cpp -o bez -lglfw3 -lfreeglut -lopengl32`
-	- *Compiles the code*
+	- *Compiles the program*
  	- If you're still getting errors, try swapping:
   		- `-lglfw3` -> `-lglfw`
   		- `-lopengl32` -> `-lOpenGL`
 - `./bez 1000 1000`
-	- *Run the program*
+	- *Runs the program*
 	- The parameters can be replaced to adjust the width and height of the window (1000x1000 in this example).
