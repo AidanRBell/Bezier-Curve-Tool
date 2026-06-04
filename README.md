@@ -1,6 +1,6 @@
 # Bezier Curve Manipulation Tool
 This tool allows users to create a large Bezier curve. Users can place and move the curve's anchor points, as well as adjust the tangent handles between anchor points to further refine its shape.
-The program is written in C++ and uses OpenGL along with the GLEW and GLFW libraries. This assignment provided an opportunity to practice real-time matrix and curve calculations based on user input while applying fundamental computer graphics concepts covered in class lectures.
+The program is written in C++ and uses OpenGL along with the GLEW and GLFW libraries. This assignment provided an opportunity to practice real-time matrix and curve calculations based on user input while applying fundamental computer graphics concepts covered in my undergraduate degree.
 
 https://github.com/user-attachments/assets/365cf60c-2043-41d4-b32d-57d344db8f65
 
@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/365cf60c-2043-41d4-b32d-57d344db8f65
 - Click and hold an anchor point to adjust its position.
 - Tangent handles are automatically created for newly placed anchor points and can also be moved to refine the shape.
 - Press `E` to reset the entire curve.
-\
 
 ## Running the Program
 To run the program, a few libraries need to be installed:\
